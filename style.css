@@ -48,11 +48,6 @@ header {
     font-weight: bold;
 }
 
-/* .logo {
-    width: 150px;
-    cursor: pointer;
-} */
-
 .navbar .links {
     display: flex;
     gap: 2rem;
