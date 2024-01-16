@@ -43,15 +43,15 @@ header {
     justify-content: space-between;
 }
 
-/* .navbar .logo a {
+.navbar .logo a {
     font-size: 1.5rem;
     font-weight: bold;
-} */
+}
 
-.logo {
+/* .logo {
     width: 150px;
     cursor: pointer;
-}
+} */
 
 .navbar .links {
     display: flex;
